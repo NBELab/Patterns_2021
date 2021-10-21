@@ -1,4 +1,8 @@
-# ik-ann-snn
-Neural Networks for Inverse Kinematics with Multiple Obstacle Avoidance
+# Data-Driven Artificial and Spiking Neural Networks for Inverse Kinematics in Neurorobotics
+## By Alex Volinski, Yuval Zaidel, Albert Shalumov, Travis DeWolf, Lazar Supic, and Elishai Ezra Tsur
 
-Please unzip end_effector_test-200000.zip file in Data folder before code execution
+All data and code, associated with the our work:  
+"Data-Driven Artificial and Spiking Neural Networks for Inverse Kinematics in Neurorobotics"
+is availible in this repository.
+
+
